@@ -15,15 +15,7 @@ import dev.service.AppService;
 
 public class AppMaven001 {
 	
-	/**
-	 * @return 
-	 * 
-	 * 
-	 * 
-	 */
-	
-	
-		private static final Logger LOG = LoggerFactory.getLogger(AppMaven001.class);
+			private static final Logger LOG = LoggerFactory.getLogger(AppMaven001.class);
 		public static void main(String[] args) {
 			
 			LOG.info("Bonjour Slf4J !");
