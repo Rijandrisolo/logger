@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"diginamic.fr.monprojet.maven001"}];updateSearchResults();
